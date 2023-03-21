@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402698803681",
+    "firebase_url": "https://class-infinity-default-rtdb.firebaseio.com",
+    "project_id": "class-infinity",
+    "storage_bucket": "class-infinity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402698803681:android:800a999d4513b2a74bdaa0",
+        "android_client_info": {
+          "package_name": "com.mpr.classinfinity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402698803681-d83cjdj0u5ededq7bmsm9ednnel2aqkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpr.classinfinity",
+            "certificate_hash": "d0a4884dc12d0d8fc4f4b0aba15b957ad6217f6d"
+          }
+        },
+        {
+          "client_id": "402698803681-db4k3s2pe4igd0up17o3q4v5bp2croad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFp-VMviy68GfH5Rsjf9c40l0hxGNrIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402698803681-db4k3s2pe4igd0up17o3q4v5bp2croad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
